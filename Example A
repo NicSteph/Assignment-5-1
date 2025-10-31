@@ -1,10 +1,10 @@
-j = 2
-k = 5
-m = 6
-n = 9
+p = 2
+q = 4
 
-while j < k:
-    while m < n:
-        print("Hello")
-        m = m + 1
-    j = j + 1
+while p < q:
+    print("Adios")
+    r = 1
+    while r < q:
+        print("Adios")
+        r = r + 1
+    p = p + 1
