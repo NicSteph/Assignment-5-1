@@ -1,9 +1,9 @@
-a = 1
-b = 2
-c = 5
+d = 4
+e = 6
+f = 7
 
-while a < c:
-  a = a + 1
-  b = b + c
+while d > f:
+d = d + 1
+  e = e - 1
 
-print(a, b, c)
+print(d, e, f)
