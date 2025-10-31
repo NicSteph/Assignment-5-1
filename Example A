@@ -1,9 +1,7 @@
-d = 4
-e = 6
-f = 7
+g = 4
+h = 6
 
-while d > f:
-d = d + 1
-  e = e - 1
+while g < h:
+    g = g + 1
 
-print(d, e, f)
+print(g, h)
